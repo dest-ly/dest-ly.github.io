@@ -147,7 +147,7 @@
 	padding: 0.6rem 0.82rem;
 	border-radius: var(--radius-md);
 	border: 1px solid var(--border-strong);
-	background: color-mix(in srgb, var(--page-accent-soft) 74%, rgba(255, 255, 255, 0.02));
+	background: transparent;
 	color: var(--text);
 	font-size: 0.9rem;
 	font-weight: 500;
